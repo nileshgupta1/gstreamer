@@ -1,0 +1,3 @@
+D:/Code/gstreamer/Part2/build/CMakeFiles/FaceDetection.dir
+D:/Code/gstreamer/Part2/build/CMakeFiles/edit_cache.dir
+D:/Code/gstreamer/Part2/build/CMakeFiles/rebuild_cache.dir

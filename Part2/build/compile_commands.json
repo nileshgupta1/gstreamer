@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Code/gstreamer/Part2/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -isystem D:/opencv/build/include -g -o CMakeFiles\\FaceDetection.dir\\src\\Main.cpp.obj -c D:\\Code\\gstreamer\\Part2\\src\\Main.cpp",
+  "file": "D:\\Code\\gstreamer\\Part2\\src\\Main.cpp",
+  "output": "CMakeFiles\\FaceDetection.dir\\src\\Main.cpp.obj"
+}
+]

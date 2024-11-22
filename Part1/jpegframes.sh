@@ -1,0 +1,1 @@
+gst-launch-1.0 filesrc location=vid.mp4 ! decodebin ! videoconvert ! jpegenc ! multifilesink location=images/%05d.jpg
